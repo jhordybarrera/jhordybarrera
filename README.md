@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jhordybarrera
+- 👀 I’m interested in develop software
+- 🌱 I’m currently learning SharePoint 2019
+- 💞️ I’m looking to collaborate on sharepoint server apps
+- 📫 How to reach me ...
